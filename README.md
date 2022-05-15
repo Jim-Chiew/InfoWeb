@@ -2,7 +2,7 @@
 The idea come about during one of my modules in ethical hacking. Where there are many online tools to help with reconnaissance, so I thought it will be a good idea to create a web extension that help to automate common recon searches.
 
 # How to use:
-When you are on the website that you want to perform the recognizance, click on the infoweb extension and choose the tool you want to perform the search with, or click on the `Search all` button to search with all the current web tools.
+When you are on the website that you want to perform the recon, click on the infoweb extension and choose the tool you want to perform the search with, or click on the `Search all` button to search with all the current web tools.
 
 ### Example:
 ![Sample.gif](/imgGit/sample.gif)
