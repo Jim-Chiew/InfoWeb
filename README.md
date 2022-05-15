@@ -1,6 +1,3 @@
-# InfoWeb
-A web app reconnaissance extension for Firefox. Takes in the current page URL and sends it to web tools like BuiltWith, Netcraft, WayBack Machine and nsLookup.
-
 # Introduction:
 The idea come about during one of my modules in ethical hacking. Where there are many online tools to help with recognizance, so I thought it will be a good idea to create a web extension that help to automate common recon searches.
 
