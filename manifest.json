@@ -1,0 +1,41 @@
+{
+  "manifest_version": 2,
+  "name": "InfoWeb",
+  "version": "1",
+  "description": "A web app reconnaissance companion. Takes in the current page URL and sends it to web tools like BuiltWith, Netcraft, WayBack Machine and nsLookup.",
+  "icons": {
+    "48": "Images/InfoWebIcon48.png",
+    "128": "Images/InfoWebIcon128.png"
+  },
+
+  "browser_action": {
+    "default_icon": {
+      "16": "Images/InfoWebIcon16.png",
+      "32": "Images/InfoWebIcon32.png"
+    },
+
+    "theme_icons": [
+      {
+        "light": "Images/InfoWebIcon16-dark.png",
+        "dark": "Images/InfoWebIcon16.png",
+        "size": 16
+      },
+      {
+        "light": "Images/InfoWebIcon32-dark.png",
+        "dark": "Images/InfoWebIcon32.png",
+        "size": 32
+      }
+    ],
+
+    "default_title": "InfoWeb",
+    "default_popup": "Popup/popup.html"
+  },
+
+  "background": {
+    "scripts": ["Popup/popup.js"]
+  },
+
+  "permissions": [
+    "activeTab", "tabs"
+  ]
+}
