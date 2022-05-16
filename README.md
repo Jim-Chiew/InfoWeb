@@ -16,3 +16,10 @@ This extension is not monitored and maintained for bugs, as this is only a side 
 Currently, not added in Firefox addons.mozilla.org yet.
 
 Plan to add an input field, so you don't have to visit the targeted site to quarry.
+
+## References
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension  
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/tabs/query  
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/tabs/Tab  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise  
+https://extensionworkshop.com/documentation/publish/submitting-an-add-on/  
